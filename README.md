@@ -1,8 +1,6 @@
 # Chatbot-with-Oracle-23ai-via-RAG
 We are building a RAG-based chatbot using Oracle Database 23ai and a Retrieval-Augmented Generation (RAG) based system. We trained a chatbot with their unstructured data like PDF, CSV, and TXT files. It combines advanced retrieval techniques with generative AI, creating a powerful solution for intelligent and dynamic data interaction.
 
-# Integrate Oracle 23ai Vector DB with OCI GenAI using Llama-index
-
 [![Python Version](https://img.shields.io/badge/python-3.11.x-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 
 ## Introduction
